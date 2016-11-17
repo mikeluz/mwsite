@@ -48,11 +48,11 @@ if (isset($_POST['send'])) {
 	<ul class="menu">
 	<li><a href="music.php">Music</a></li>
 	<li> / </li>
-	<li><a href="dev.php">Dev</a></li>
+	<li><a href="dev.php">Code</a></li>
 	<li> / </li>
 	<li><a href="photos.php">Photos</a></li>	
 	<li> / </li>
-	<li><a href="/blog">Blog</a></li>
+	<li><a href="/blog">Dev Blog</a></li>
 	</ul>
 	<br>
 	

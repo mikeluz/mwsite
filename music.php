@@ -36,11 +36,11 @@
 	<!-- menu -->
 	<br>
 	<ul class="menu">
-	<li><a href="dev.php">Dev</a></li>
+	<li><a href="dev.php">Code</a></li>
 	<li> / </li>
 	<li><a href="photos.php">Photos</a></li>	
 	<li> / </li>
-	<li><a href="/blog">Blog</a></li>
+	<li><a href="/blog">Dev Blog</a></li>
 	</ul>
 	<br>
 	
@@ -50,9 +50,9 @@
 				
 <iframe style="border: 0; width: 350px; height: 350px;" src="http://bandcamp.com/EmbeddedPlayer/album=2558910622/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://mercywizard.bandcamp.com/album/dream-awake">Dream Awake by Mercy Wizard</a></iframe>
 
-<iframe style="border: 0; width: 350px; height: 350px;" src="http://bandcamp.com/EmbeddedPlayer/album=3558591457/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://pescidevito.bandcamp.com/album/drunk-on-gas">Drunk On Gas by Pesci Devito</a></iframe>
+<iframe style="border: 0; width: 350px; height: 350px;" src="http://bandcamp.com/EmbeddedPlayer/track=1312957644/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://pescidevito.bandcamp.com/track/phil-henley">Phil Henley by Pesci Devito</a></iframe>
 
-<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3875440212/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://theimmaculatecorpses.bandcamp.com/album/the-tape">The Tape by Immaculate Corpses</a></iframe>
+<iframe style="border: 0; width: 350px; height: 350px;" src="http://bandcamp.com/EmbeddedPlayer/album=3875440212/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://theimmaculatecorpses.bandcamp.com/album/the-tape">The Tape by Immaculate Corpses</a></iframe>
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="http://bandcamp.com/EmbeddedPlayer/album=3025760993/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://disunicorps.bandcamp.com/album/sobotomy">Sobotomy by Disunicorps</a></iframe>
 

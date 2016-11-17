@@ -33,7 +33,7 @@
 	<li> / </li>
 	<li><a href="photos.php">Photos</a></li>	
 	<li> / </li>
-	<li><a href="/blog">Blog</a></li>
+	<li><a href="/blog">Dev Blog</a></li>
 	</ul>
 	<br>	
 <hr>

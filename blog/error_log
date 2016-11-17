@@ -1,0 +1,1 @@
+[13-Aug-2016 01:37:27 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/mwsite01/public_html/blog/wp-includes/class-wp-xmlrpc-server.php on line 596

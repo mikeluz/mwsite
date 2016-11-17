@@ -31,9 +31,9 @@
 	<ul class="menu">
 	<li><a href="music.php">Music</a></li>
 	<li> / </li>
-	<li><a href="dev.php">Dev</a></li>
+	<li><a href="dev.php">Code</a></li>
 	<li> / </li>
-	<li><a href="/blog">Blog</a></li>
+	<li><a href="/blog">Dev Blog</a></li>
 	</ul>
 	
 	<hr>
